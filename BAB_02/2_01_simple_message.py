@@ -1,3 +1,3 @@
 # Exercise 2-1: Simple Message
-message = "Saya sedang belajar Python."
+message = "Saya ingin menjadi seorang yang luar biasa"
 print(message)
