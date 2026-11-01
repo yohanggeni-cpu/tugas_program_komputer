@@ -1,6 +1,6 @@
 # Exercise 2-2: Simple Messages
-message = "Python adalah bahasa pemrograman yang mudah dibaca."
+message = "Saya ingin terus hidup"
 print(message)
 
-message = "Saya sedang berlatih menggunakan variabel."
+message = "Tapi... kenapa dengan dunia ini?"
 print(message)
