@@ -1,0 +1,15 @@
+# Exercise 3-8: Seeing the World
+places = ["Kyoto", "Swiss Alps", "Raja Ampat", "Iceland", "Vatican City"]
+print("Urutan asli:", places)
+print("Alfabetis:", sorted(places))
+print("Asli tetap:", places)
+print("Alfabetis terbalik:", sorted(places, reverse=True))
+print("Asli tetap:", places)
+places.reverse()
+print("Setelah reverse pertama:", places)
+places.reverse()
+print("Kembali ke urutan asli:", places)
+places.sort()
+print("Setelah sort:", places)
+places.sort(reverse=True)
+print("Setelah sort reverse:", places)
