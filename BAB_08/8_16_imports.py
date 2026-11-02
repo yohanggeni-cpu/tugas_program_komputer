@@ -1,10 +1,9 @@
-# Exercise 8-16: Imports
-# Lima variasi import dijelaskan dan disediakan sebagai file terpisah di folder
-# ex_8_16. Jalankan setiap file demo untuk melihat bentuk pemanggilannya.
-print("Exercise 8-16: jalankan file demo berikut di folder ex_8_16:")
-print("1) import_module.py")
-print("2) from_module.py")
-print("3) alias_function.py")
-print("4) alias_module.py")
-print("5) wildcard_import.py")
-print("Contoh fungsi sumber tersedia di greeting.py.")
+#cara 1 : import module_name
+import sandwiches
+sandwiches.make_sandwich('keju','tomat')
+
+#cara 2 : from module_name import function_name
+from sandwiches import make_sandwich
+make_sandwich("ayam", "selada", "mayones")
+
+#cara 3
