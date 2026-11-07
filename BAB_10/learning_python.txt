@@ -1,0 +1,4 @@
+In Python you can store data in variables.
+In Python you can make decisions with if statements.
+In Python you can repeat tasks with loops.
+In Python you can organize code with functions.
