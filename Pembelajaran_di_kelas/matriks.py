@@ -1,6 +1,6 @@
 #matriks berukuran 2x2
 listA = [3,4,6]
-matriksA = [[11,12],[13,14]]
+matriksA = [[11,    12],[13,    14]]
 print (matriksA)
 print (matriksA[0][0])
 print (matriksA[1][1])
